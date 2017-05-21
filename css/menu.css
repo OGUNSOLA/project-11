@@ -1,7 +1,7 @@
 .menu {
     background-color: rgb(239, 240, 241);
     font-family: "Arvo", serif;
-    padding: 1.5rem 3rem;
+    padding: 1.5rem 1rem;
     height: auto;
 }
 .menu .inline-list {
@@ -15,7 +15,7 @@
 .menu .inline-list a {
     color: rgb(72, 84, 97);
     font-weight: bold;
-    letter-spacing: 0.125rem;
+    letter-spacing: 0.1rem;
     padding-bottom: 0.5rem;
     text-transform: uppercase;
 }
@@ -32,7 +32,7 @@
     }
     .menu .inline-list {
         float: left;
-        margin: 0 0 0 1.5rem;
+        margin: 0 0 0 1rem;
     }
 }
 .menu .account {
@@ -65,7 +65,7 @@
     font-size: 2rem;
     font-weight: bold;
     line-height: 1;
-    margin: 0 0 1rem 0;
+    margin: 0 0 0.5rem 0;
     color: rgb(72, 84, 97);
     text-indent: -9999999rem;
     overflow: hidden;

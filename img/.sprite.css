@@ -18,49 +18,49 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 */
 .icon-avatar1 {
   background-image: url(../img/avatars/sprite.jpg);
-  background-position: -180px 0px;
+  background-position: -300px 0px;
   width: 60px;
   height: 60px;
 }
 .icon-avatar2 {
   background-image: url(../img/avatars/sprite.jpg);
-  background-position: -180px -60px;
+  background-position: -300px -60px;
   width: 60px;
   height: 60px;
 }
 .icon-avatar3 {
   background-image: url(../img/avatars/sprite.jpg);
-  background-position: -180px -120px;
+  background-position: -300px -120px;
   width: 60px;
   height: 60px;
 }
 .icon-avatar4 {
   background-image: url(../img/avatars/sprite.jpg);
-  background-position: 0px -180px;
+  background-position: -300px -180px;
   width: 60px;
   height: 60px;
 }
 .icon-avatar5 {
   background-image: url(../img/avatars/sprite.jpg);
-  background-position: -60px -180px;
+  background-position: -300px -240px;
   width: 60px;
   height: 60px;
 }
 .icon-avatar6 {
   background-image: url(../img/avatars/sprite.jpg);
-  background-position: -120px -180px;
+  background-position: 0px -300px;
   width: 60px;
   height: 60px;
 }
 .icon-avatar7 {
   background-image: url(../img/avatars/sprite.jpg);
-  background-position: -180px -180px;
+  background-position: -60px -300px;
   width: 60px;
   height: 60px;
 }
 .icon-sprite {
   background-image: url(../img/avatars/sprite.jpg);
   background-position: 0px 0px;
-  width: 180px;
-  height: 180px;
+  width: 300px;
+  height: 300px;
 }
